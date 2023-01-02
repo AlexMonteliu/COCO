@@ -1,0 +1,16 @@
+C:\Users\cpujo\Desktop\P2Coco\P2COCO\P2COCO\obj\Debug\P2COCO.csproj.AssemblyReference.cache
+C:\Users\cpujo\Desktop\P2Coco\P2COCO\P2COCO\obj\Debug\P2COCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpujo\Desktop\P2Coco\P2COCO\P2COCO\obj\Debug\P2COCO.csproj.CoreCompileInputs.cache
+C:\Users\cpujo\Desktop\P2Coco\P2COCO\P2COCO\bin\Debug\P2COCO.exe.config
+C:\Users\cpujo\Desktop\P2Coco\P2COCO\P2COCO\bin\Debug\P2COCO.exe
+C:\Users\cpujo\Desktop\P2Coco\P2COCO\P2COCO\bin\Debug\P2COCO.pdb
+C:\Users\cpujo\Desktop\P2Coco\P2COCO\P2COCO\obj\Debug\P2COCO.exe
+C:\Users\cpujo\Desktop\P2Coco\P2COCO\P2COCO\obj\Debug\P2COCO.pdb
+C:\Users\cpujo\Desktop\P2 COCO\COCO\Proyecto\P2COCO\bin\Debug\P2COCO.exe.config
+C:\Users\cpujo\Desktop\P2 COCO\COCO\Proyecto\P2COCO\bin\Debug\P2COCO.exe
+C:\Users\cpujo\Desktop\P2 COCO\COCO\Proyecto\P2COCO\bin\Debug\P2COCO.pdb
+C:\Users\cpujo\Desktop\P2 COCO\COCO\Proyecto\P2COCO\obj\Debug\P2COCO.csproj.AssemblyReference.cache
+C:\Users\cpujo\Desktop\P2 COCO\COCO\Proyecto\P2COCO\obj\Debug\P2COCO.csproj.SuggestedBindingRedirects.cache
+C:\Users\cpujo\Desktop\P2 COCO\COCO\Proyecto\P2COCO\obj\Debug\P2COCO.csproj.CoreCompileInputs.cache
+C:\Users\cpujo\Desktop\P2 COCO\COCO\Proyecto\P2COCO\obj\Debug\P2COCO.exe
+C:\Users\cpujo\Desktop\P2 COCO\COCO\Proyecto\P2COCO\obj\Debug\P2COCO.pdb
