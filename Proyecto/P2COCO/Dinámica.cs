@@ -73,7 +73,6 @@ namespace P2COCO
             int p = (int)c_maxima;
             while (i != -1 && p != -1)
             {
-             
                 if (P[i,p]==true)
                 {
                     solucion[i] = true;  // Añado el objeto i
@@ -81,27 +80,27 @@ namespace P2COCO
 
                     Objetodevuelto[i] = i;
                     //Metemos condiciones para que imprima el mensaje adecuado.
-                    if (i == 1)
+                    if (i == 0)
                     {
                         Console.WriteLine("Objetos devueltos " + Objetodevuelto[i] + " Producto: Palés de café de Kenya ");
                     }
-                    if (i == 2)
+                    if (i == 1)
                     {
                         Console.WriteLine("Objetos devueltos " + Objetodevuelto[i] + " Producto: Palés de café de Colombia");
                     }
-                    if (i == 3)
+                    if (i == 2)
                     {
                         Console.WriteLine("Objetos devueltos " + Objetodevuelto[i] + " Producto: Palés de café de Kawaii  ");
                     }
-                    if (i == 4)
+                    if (i == 3)
                     {
                         Console.WriteLine("Objetos devueltos " + Objetodevuelto[i] + " Producto: Palés de café de Jamaica  ");
                     }
-                    if (i == 5)
+                    if (i == 4)
                     {
                         Console.WriteLine("Objetos devueltos " + Objetodevuelto[i] + " Producto: Palés de café de Nicaragua  ");
                     }
-                    if (i == 6)
+                    if (i == 5)
                     {
                         Console.WriteLine("Objetos devueltos " + Objetodevuelto[i] + " Producto: Palés de café de Tanzania  ");
                     }

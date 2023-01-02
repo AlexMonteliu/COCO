@@ -39,10 +39,10 @@ namespace P2COCO
 
                     for (int a = 0; a < x.Length; a++)
                     {
-                        x[a] = x[a] * 100; //Se pasa a porcentage los numeros obtenidos
+                        x[a] = x[a] * 100; //Se pasa a porcentaje los numeros obtenidos
                     }
 
-                    Console.WriteLine("La solución optima de las cargas sería la siguiente: \n");
+                    Console.WriteLine("La solución óptima de las cargas sería la siguiente: \n");
                     for (int i = 0; i < x.Length; i++)
                     {
                         Console.WriteLine(grupo[i].nombre + ": Se coge el " + x[i] + "%");
@@ -50,8 +50,6 @@ namespace P2COCO
                     //Console.WriteLine(x[0]);
                     Console.ReadKey();
 
-
-                    //PARTE DE JAVI
 
                 }
                 if(variablemenu == 2)
@@ -78,7 +76,7 @@ namespace P2COCO
             } while (variablemenu!=4);
           
 
-            Console.ReadKey();
+         
         }
     }
 }
