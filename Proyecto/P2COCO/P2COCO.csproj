@@ -44,9 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Dinámica.cs" />
+    <Compile Include="objeto.cs" />
     <Compile Include="ObjetoDinámica.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Voraz.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -11,7 +11,7 @@ namespace P2COCO
  
         public int peso;
         public int valor;
-
+        
 
         public ObjetoDinámica(int peso, int valor)
         {
